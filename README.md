@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/Fabio-1984?logo=github&style=for-th
 
 <a href="http://www.github.com/Fabio-1984"><img src="https://activity-graph.herokuapp.com/graph?username=Fabio-1984&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Fabio-1984" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio-1984&layout=compact&layout=compact" /></a>
+<a href="https://github.com/Fabio-1984" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio-1984&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
 
 
 
